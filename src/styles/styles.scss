@@ -1,0 +1,15 @@
+
+/*Wrapper a Todos los enlaces de los estilos de cada componente*/
+
+// Definicion de variables y estilos de componentes base.
+@import './base/settings';
+@import './base/base';
+
+// Definicion de estilos de componentes de react
+@import './components/auth';
+@import './components/botones';
+@import './components/links';
+@import './components/journal';
+@import './components/nothing';
+@import './components/notes';
+@import './components/loading';
